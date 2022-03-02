@@ -2,4 +2,8 @@ uno
 
 dos
 tres
+<<<<<<< HEAD
 cinco
+=======
+cuatro
+>>>>>>> 5ce54d9c8f747477c0f9c551ba6d2732994ab8a3
